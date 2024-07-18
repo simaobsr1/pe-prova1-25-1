@@ -131,6 +131,28 @@ Saída:
 
 - 90.00
 
+### Exemplo 2:
+
+Entrada:
+
+- 0
+- 80
+
+Saída:
+
+- Valor inválido
+
+### Exemplo 3:
+
+Entrada:
+
+- 1
+- 0
+
+Saída:
+
+- 90.00
+
 ## Questão 5:
 
 Faça um programa para converter um valor de temperatura em uma escala de mediada definida pelo usuário para as outras escalas de medida.

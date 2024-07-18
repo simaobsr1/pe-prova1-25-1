@@ -1,28 +1,17 @@
 def q1():
-    ano = int(input(""))
-    pulo = int(input(""))
-    for i in range(ano+ pulo, (ano + (pulo*4)) + 1 , pulo):
-        print(i, end=" ")
+    pass
 
 def q2():
-    ler_numeros = True
-    while ler_numeros:
-        n = int(input(""))
-        if n == -1:
-            ler_numeros = False
-            break
-        primo = True
-        for i in range(n-1, 1, -1):
-            if n % i == 0:
-                primo = False
-        if primo:
-            print("Primo")
-        else:
-            print("Não")
-                
+    pass
 
 def q3():
     pass
 
 def q4():
     pass
+
+def q5():
+    pass
+
+if __name__=="__main__":
+    # teste sua questão manualmente aqui
