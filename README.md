@@ -186,6 +186,7 @@ Se o usuário fornecer uma temperatura em graus Kelvin, imprima a mesma temperat
 Se o usuário fornecer um valor menor que esses para cada temperatura, imprima uma mensagem de erro
 "Valor de temperatura abaixo do minimo"
 
+![Tabela de Conversão](https://www.infoescola.com/wp-content/uploads/2010/01/conversao-de-escalas-termometricas-tabela-600x250.jpg)
 
 ### Exemplo 1:
 
